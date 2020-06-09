@@ -1,0 +1,364 @@
+@charset "utf-8";
+/* CSS Document */
+
+/******************************
+
+[Table of Contents]
+
+1. Fonts
+2. Body and some general stuff
+3. Header
+4. Menu
+5. Home
+6. Search Box
+7. Intro
+8. Milestones
+9. Newsletter
+10. Contact
+11. Footer
+
+
+******************************/
+
+/***********
+1. Fonts
+***********/
+
+@import url('https://fonts.googleapis.com/css?family=Alike|Roboto:300,400,500,700,900');
+
+/*********************************
+2. Body and some general stuff
+*********************************/
+
+*
+{
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+	text-shadow: rgba(0,0,0,.01) 0 0 1px;
+}
+body
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	background: #FFFFFF;
+	color: #a5a5a5;
+}
+h1, h2, h3, h4, h5, h6
+{
+	font-family: 'Alike', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+	text-shadow: rgba(0,0,0,.01) 0 0 1px;
+	line-height: 1.2;
+	color:#4086D0;
+}
+.form-control
+{
+	color: #db5246;
+}
+section
+{
+	display: block;
+	position: relative;
+	box-sizing: border-box;
+}
+.clear
+{
+	clear: both;
+}
+.clearfix::before, .clearfix::after
+{
+	content: "";
+	display: table;
+}
+.clearfix::after
+{
+	clear: both;
+}
+.clearfix
+{
+	zoom: 1;
+}
+.float_left
+{
+	float: left;
+}
+.float_right
+{
+	float: right;
+}
+
+.fill_height
+{
+	height: 100%;
+}
+.super_container
+{
+	width: 100%;
+	overflow: hidden;
+}
+.prlx_parent
+{
+	overflow: hidden;
+}
+.prlx
+{
+	height: 130% !important;
+}
+.parallax-window
+{
+    min-height: 400px;
+    background: transparent;
+}
+.parallax_background
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.background_image
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+.nopadding
+{
+	padding: 0px !important;
+}
+.section_title_container
+{
+	padding-top: 52px;
+}
+.section_title_container::after
+{
+	position: absolute;
+	top: 0;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	transform: translateX(-50%);
+	width: 3px;
+	height: 30px;
+	background: black;	
+	content: '';
+}
+.section_title_container_2
+{
+	padding-top: 52px;
+}
+.section_title_container_2::after
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 3px;
+	height: 30px;
+	background: #1D9EB4;
+	content: '';
+}
+.section_title h1
+{
+	color: #1D9EB4;
+}
+.section_text
+{
+	max-width: 910px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 17px;
+	font-size: 16px;
+	font-weight: 500;
+	color: #717171;
+	line-height: 2.25;
+}
+
+
+/*********************************
+3. Header
+*********************************/
+
+
+
+/*********************************
+5. Home
+*********************************/
+
+
+/*********************************
+6. Search Box
+*********************************/
+
+
+
+/*********************************
+7. Intro
+*********************************/
+
+.intro_right
+{
+	background: #FFFFFF;
+	padding-top: 95px;
+}
+.intro > .container
+{
+	max-width: 100%;
+	padding-left: 0;
+	padding-right: 0;
+}
+.intro > .container > .row
+{
+	margin-left: 0;
+	margin-right: 0;
+}
+.intro > .container > .row > div[class^='col']
+{
+	padding-left: 0;
+	padding-right: 0;
+}
+.intro_image
+{
+	width: 100%;
+	height: 100%;
+}
+.intro_right_content
+{
+	padding-top: 51px;
+	padding-left: 95px;
+	padding-right: 115px;
+	padding-bottom: 50px;
+}
+.intro_right_text
+{
+	font-size: 18px;
+	font-weight: 400;
+	color: #717171;
+	line-height: 1.88;
+	margin-top: 80px;
+}
+.sig
+{
+	margin-top: 94px;
+}
+.intro_left_content
+{
+	padding-top: 140px;
+	padding-left: 80px;
+	padding-right: 40px;
+	padding-bottom: 151px;
+}
+.intro_left_content .section_title_container
+{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.icon_box_row
+{
+	margin-top: 89px;
+}
+.icon_box_icon
+{
+	width: 43px;
+	height: 43px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.icon_box_icon img
+{
+	max-width: 100%;
+}
+.icon_box_title
+{
+	margin-top: 41px;
+}
+.icon_box_text
+{
+	margin-top: 27px;
+}
+.icon_box_text p
+{
+	font-size: 14px;
+	line-height: 2.14;
+}
+
+/*********************************
+8. Pagination
+*********************************/
+.Pagination {
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  .Pagination-button {
+    text-align: center;
+    border: none;
+    border-radius: 16px;
+    background-color: #1D9EB4;
+    transition: background-color .2s;
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+    width: 44px;
+    height: 34px;
+  }
+  
+  .Pagination-button:hover {
+    background-color: #1D8cB0;
+  }
+  
+  .Pagination-button:focus {
+    outline: none;
+  }
+  
+  .Pagination-button:disabled {
+    background-color: #1f364d;
+    cursor: not-allowed;
+  }
+  
+  .Pagination-info {
+    font-size: 12px;
+  }
+
+
+
+  /* Attraction about area */
+  .area-padding {
+	padding: 70px 0px 80px;
+  }
+
+  .about-area {
+	background-color: #f9f9f9;
+  }
+  
+  .single-well>a {
+	display: block;
+  }
+  
+  .single-well ul li {
+	color: #444;
+	display: block;
+	padding: 5px 0;
+  }
+  
+  .single-well ul li i {
+	color: #3EC1D5;
+	padding-right: 10px;
+	font-size: 12px;
+  }
+  
+  .single-well p {
+	color: #444;
+  }
+

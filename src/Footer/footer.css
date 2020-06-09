@@ -1,0 +1,15 @@
+
+.page-footer {
+    margin: 0;
+    /* padding: 2px; */
+  
+    height: auto;
+    border: 6px solid black;
+    border-style: double;
+    background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+    background: #333;
+}
+.fa {
+    color: white;
+    font-size: 25px;
+}

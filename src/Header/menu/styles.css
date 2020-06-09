@@ -1,0 +1,12 @@
+
+.menuDiv {
+  z-index: 50000;
+  width: 100px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+@media only screen and (max-width: 360px) {
+  .menuDiv {
+    width: 360px;
+  }
+}

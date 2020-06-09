@@ -1,0 +1,748 @@
+@media only screen and (max-width: 1950px) {
+    .conteners{
+        width: 800px;
+        height: 750px;
+        top: 80px;
+        left: 28%;
+    }
+    .restImg > img {
+        width: 300px;
+        height: 300px;
+    }
+    .modalC .buttons {
+        position: absolute;
+        left: 80%;
+        font-size: 60px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        overflow: scroll;
+        width: 800px;
+        height: 400px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 50px;
+    }
+    .menuImgCont > div > span {
+        font-size: 30px;
+    }
+    .menuImg {
+        width: 50px;
+        height: 50px;
+    }
+    
+}
+@media only screen and (max-width: 1930px) {
+    .conteners{
+        width: 700px;
+        height: 450px;
+        top: 80px;
+        left: 28%;
+    }
+    .restImg > img {
+        width: 300px;
+        height: 300px;
+    }
+    .modalC .buttons {
+        position: absolute;
+        left: 80%;
+        font-size: 60px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        overflow: scroll;
+        width: 800px;
+        height: 400px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 50px;
+    }
+    .menuImgCont > div > span {
+        font-size: 30px;
+    }
+    .menuImg {
+        width: 50px;
+        height: 50px;
+    }
+    
+}
+@media only screen and (max-width: 1700px) {
+    .conteners{
+        width: 1000px;
+        height: 1000px;
+        top: 50px;
+        left: 6%;
+    }
+    .restImg > img {
+        width: 300px;
+        height: 300px;
+    }
+    .modalC .buttons {
+        position: absolute;
+        left: 80%;
+        font-size: 60px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        overflow: scroll;
+        width: 900px;
+        height: 700px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 90px;
+    }
+    .menuImgCont > div > span {
+        font-size: 50px;
+    }
+    .menuImg {
+        width: 50px;
+        height: 50px;
+    }
+    
+}
+@media only screen and (max-width: 1600px) {
+    .conteners{
+        width: 1000px;
+        height: 700px;
+        top: 50px;
+        left: 6%;
+    }
+    .restImg > img {
+        width: 300px;
+        height: 300px;
+    }
+    .modalC .buttons {
+        position: absolute;
+        left: 80%;
+        font-size: 60px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        overflow: scroll;
+        width: 1000px;
+        height: 350px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 90px;
+    }
+    .menuImgCont > div > span {
+        font-size: 50px;
+    }
+    .menuImg {
+        width: 50px;
+        height: 50px;
+    }
+    
+}
+@media only screen and (max-height: 1200px){
+    .conteners{
+      
+        margin-top: 25px;
+        width: 900px;
+        height: 700px;
+        top: 55px;
+        left: 18%;
+    }
+    .restImg > img {
+        width: 200px;
+        height: 200px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 900px;
+        height: 400px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 60px;
+    }
+    .menuImgCont > div > span {
+        font-size: 15px;
+    }
+    .menuImg {
+        width: 50px;
+        height: 50px;
+    }
+}
+@media only screen and (max-width: 1324px) {
+    .conteners{
+        width: 900px;
+        height: 1000px;
+        top: 50px;
+        left: 6%;
+    }
+    .restImg > img {
+        width: 300px;
+        height: 300px;
+    }
+    .modalC .buttons {
+        position: absolute;
+        left: 80%;
+        font-size: 60px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        overflow: scroll;
+        width: 900px;
+        height: 300px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 100px;
+    }
+    .menuImgCont > div > span {
+        font-size: 50px;
+    }
+    .menuImg {
+        width: 50px;
+        height: 50px;
+    }
+    
+}
+@media only screen and (max-width: 1024px) {
+    .conteners{
+        width: 800px;
+        height: 1100px;
+        top: 120px;
+        left: 10%;
+    }
+    .restImg > img {
+        width: 300px;
+        height: 300px;
+    }
+    .modalC .buttons {
+        position: absolute;
+        left: 80%;
+        font-size: 60px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        overflow: scroll;
+        width: 700px;
+        height: 600px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 100px;
+    }
+    .menuImgCont > div > span {
+        font-size: 50px;
+    }
+    .menuImg {
+        width: 50px;
+        height: 50px;
+    }
+    
+}
+
+@media only screen and (max-width: 991px){
+    .conteners{
+        width: 500px;
+        height: 650px;
+        top: 50px;
+        left: 20%;
+    }
+    .restImg > img {
+        width: 200px;
+        height: 200px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 500px;
+        height: 350px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+    }
+    .menuImgCont > div > span {
+        font-size: 25px;
+    }
+    
+}
+
+@media only screen and (max-width: 950px){
+    .conteners{
+        width: 800px;
+        height: 1000px;
+        top: 50px;
+        left: 6%;
+    }
+    .restImg > img {
+        width: 200px;
+        height: 200px;
+    }
+    .modalC .buttons {
+        position: absolute;
+        left: 80%;
+        font-size: 30px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 800px;
+        height: 700px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+    }
+    .menuImgCont > div > span {
+        font-size: 20px;
+    }
+    
+}
+@media only screen and (max-width: 800px){
+    .conteners{
+        width: 600px;
+        height: 900px;
+        top: 75px;
+        left: 10%;
+    }
+    .restImg > img {
+        width: 250px;
+        height: 250px;
+    }
+    .modalC .buttons {
+        position: absolute;
+        left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 600px;
+        height: 550px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+    }
+    .menuImgCont > div > span {
+        font-size: 20px;
+    }
+    
+}
+@media only screen and (max-height: 800px){
+    .conteners{
+      
+        margin-top: 30px;
+        width: 900px;
+        height: 600px;
+        top: 55px;
+        left: 6%;
+    }
+    .restImg > img {
+        width: 150px;
+        height: 150px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 500px;
+        height: 320px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 30px;
+    }
+    .menuImgCont > div > span {
+        font-size: 15px;
+    }
+    .menuImg {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+
+
+@media only screen and (max-width: 575px){
+    .conteners{
+        width: 380px;
+        height: 650px;
+        top: 50px;
+        left: 4%;
+    }
+    .restImg > img {
+        width: 150px;
+        height: 150px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 380px;
+        height: 400px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+    }
+    .menuImgCont > div > span {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 450px){
+    .conteners{
+        width: 380px;
+        height: 600px;
+        top: 80px;
+        left: 4%;
+    }
+    .restImg > img {
+        width: 150px;
+        height: 150px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 380px;
+        height: 350px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+    }
+    .menuImgCont > div > span {
+        font-size: 15px;
+    }
+}
+@media only screen and (max-height: 450px){
+    .conteners{
+      
+        margin-top: 25px;
+        width: 700px;
+        height: 300px;
+        top: 55px;
+        left: 3%;
+    }
+    .restImg > img {
+        width: 50px;
+        height: 50px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 500px;
+        height: 180px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 30px;
+    }
+    .menuImgCont > div > span {
+        font-size: 15px;
+    }
+    .menuImg {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+
+@media only screen and (max-width: 400px){
+    .conteners{
+        width: 300px;
+        height: 550px;
+        top: 50px;
+        left: 9%;
+    }
+    .restImg > img {
+        width: 150px;
+        height: 150px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 300px;
+        height: 300px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+    }
+    .modalC h2 {
+        font-size: 10px;
+    }
+    .menuImgCont > div > span {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-height: 380px){
+    .conteners{
+      
+        margin-top: 25px;
+        width: 750px;
+        height: 280px;
+        top: 55px;
+        left: 5%;
+    }
+    .restImg > img {
+        width: 50px;
+        height: 50px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 500px;
+        height: 180px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 30px;
+    }
+    .menuImgCont > div > span {
+        font-size: 15px;
+    }
+    .menuImg {
+        width: 30px;
+        height: 30px;
+    }
+}
+@media only screen and (max-height: 400px){
+    .conteners{
+      
+        margin-top: 25px;
+        width: 600px;
+        height: 270px;
+        top: 55px;
+        left: 4%;
+    }
+    .restImg > img {
+        width: 50px;
+        height: 50px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 500px;
+        height: 160px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 30px;
+    }
+    .menuImgCont > div > span {
+        font-size: 15px;
+    }
+    .menuImg {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media only screen and (max-width: 380px){
+    .conteners{
+        width: 300px;
+        height: 500px;
+        top: 75px;
+        left: 10%;
+    }
+    .restImg > img {
+        width: 150px;
+        height: 150px;
+    }
+    .modalC .buttons {
+        position: absolute;
+        left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 300px;
+        height: 250px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        
+    }
+    .menuImgCont > div > span {
+        font-size: 20px;
+    }
+    
+}
+@media only screen and (max-height: 360px){
+    .conteners{
+        
+        margin-top: 25px;
+        width: 600px;
+        height: 270px;
+        top: 50px;
+        left: 3%;
+    }
+    .restImg > img {
+        width: 50px;
+        height: 50px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 400px;
+        height: 150px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 30px;
+    }
+    .menuImgCont > div > span {
+        font-size: 15px;
+    }
+    .menuImg {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media only screen and (max-width: 350px){
+    .conteners{
+        width: 300px;
+        height: 480px;
+        top: 50px;
+        left: 3%;
+    }
+    .restImg > img {
+        width: 150px;
+        height: 150px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 300px;
+        height: 250px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 30px;
+    }
+    .menuImgCont > div > span {
+        font-size: 10px;
+    }
+    
+}
+@media only screen and (max-width: 320px){
+    .conteners{
+        width: 300px;
+        height: 500px;
+        top: 85px;
+        left: 8%;
+    }
+    .restImg > img {
+        width: 150px;
+        height: 150px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 300px;
+        height: 250px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 30px;
+    }
+    .menuImgCont > div > span {
+        font-size: 10px;
+    }
+    
+}
+@media only screen and (max-height: 320px){
+    .conteners{
+        
+        margin-top: 25px;
+        width: 500px;
+        height: 230px;
+        top: 55px;
+        left: 3%;
+    }
+    .restImg > img {
+        width: 50px;
+        height: 50px;
+    }
+    .modalC .buttons {
+        position: absolute;
+       left: 80%;
+        font-size: 40px;
+        cursor: pointer;
+      }
+    .menuImgCont {
+        /* overflow: scroll; */
+        width: 500px;
+        height: 100px;
+      }
+    .menuImgCont > div {
+        width: 90%;
+        height: 30px;
+    }
+    .menuImgCont > div > span {
+        font-size: 15px;
+    }
+    .menuImg {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+

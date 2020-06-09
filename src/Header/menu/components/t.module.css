@@ -1,0 +1,48 @@
+.menu ul  {
+  padding: 10px;
+}
+.uls > li {
+ 
+  /* position: relative; */
+  margin-top: 20px;
+  
+  width: 300px;
+}
+.uls {
+  top: 30px;
+}
+
+
+.menu ul {
+  /* position: relative; */
+  margin: 0;
+  padding: 0;
+  /* background-color: #f63; */
+}
+.menu ul ul {
+  display: none;
+  position: absolute;
+  background-color: rgb(39, 56, 73);
+  margin-top: 0px;
+  margin-left: -10px;
+}
+.menu ul a {
+  color: white;
+  /* text-decoration: none; */
+}
+.menu ul ul a {
+  color: white;
+  /* text-decoration: none; */
+}
+.menu li:hover ul {
+  display: block;
+}
+
+/* .menu li:hover li {
+  display: block;
+} */
+.divs {
+  width: 3px;
+  height: 30px;
+  background-color: #fff;
+}

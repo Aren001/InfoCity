@@ -1,0 +1,1217 @@
+{
+    "header":
+        {
+            "id":"header",
+            "home":"Home",
+            "about":"About",
+            "news":"News",
+            "contact":"Contact",
+            "place":"Place",
+            "attraction":"Attraction",
+            "transport":"Transport",
+            "cafe":"Cafe (Bar)",
+            "restaurant":"Restaurant (Hotel)",
+            "bank":"Bank",
+            "shop":"Shop",
+            "sport":"Sport",
+            "cps":"CPS",
+            "craft":"Craftsman (Auto , Home)",
+            "search":"Search"
+        },
+
+
+
+
+
+
+        "home":
+            {
+            "hom":{
+                "name":"Church of the Holy Archangels",
+                "historyName":"History",
+                "history":"Construction of the Holy Archangels Church began in 2009. It was built with the help of French national philanthropist Sargis Petoyan in memory of his parents, Avetis and Taguhi Petoyan. The author of the church project is RA Honored Architect Artak Ghulyan.The consecration ceremony of the church was performed by His Holiness Karekin II. Presided over by His Holiness Karekin II, Supreme Patriarch and Catholicos of All Armenians, in the presence of the President of the Republic of Armenia Serzh Sargsyan.The consecration ceremony was attended by members of the Mother See of Holy Etchmiadzin, representatives of regional and city authorities, members and relatives of the Petoyan family who arrived from France to consecrate the church, students of Svan Vazgenyan Theological Seminary, residents of Shan and many pilgrims."
+               
+            }
+        },
+    
+            
+        
+
+
+
+
+
+
+
+     "homeAbout":{
+                "id":"ho",
+                "name":"About of Sevan"
+                  
+            },
+            "about":{
+
+            "sevan":{
+                "name":"Sevan",
+                "history":"Sevan is a town and urban municipal community, as well as one of the most and popular resorts in Armenia, located in the Gegharkunik Province on the northwestern shores of Lake Sevan. The town is built at a height of more than 1,925 metres (6,316 feet) above sea level, 65 km (40 mi) northeast of the capital Yerevan, and 35 km (22 mi) north of the provincial centre Gavar. Sevan is surrounded with the Sevan National Park, a natural protected area extending from the northeastern parts of the town to the southwest, while Lake Sevan forms the natural border of the city to the east. As of the 2011 census, the population of the town was 19,229. However, as per the 2016 official estimate, the population of Sevan is 19,200.The territory of modern-day Sevan has been populated since the 3rd millennium BC. The cyclopean fortress of Metsep dating back to the 3rd millennium BC stands just north of the town. Another cyclopean fortress known as Mashtotsner is located in the Tsamakaberd neighborhood of Sevan. After the establishment of the ancient Kingdom of Armenia, the territory of modern-day Sevan was included within the Mazaz and Varazhnunik cantons at the east of the historic Ayrarat province of Armenia Major. The Sevan peninsula, located 3 kilometres (2 miles) east of present-day Sevan, is home to one of the most notable samples of medieval Armenian architecture, the Sevanavank Monastery of the 9th century. The monastery was mainly intended for monks from Echmiadzin who had sinned. Currently, the monastery consists of two Surp Arakelots (Holy Apostles) and Surp Astvatsatsin (Holy Mother of God). The monastery is famous for its variety of the medieval Armenian Khachkars (cross-stones). Initially the monastery was built at the southern shore of a small island, that later turned into a peninsula during the 1st half of the 20th century, as a result of the artificial draining of Lake Sevan under Joseph Stalin's rule, causing the water level to fall around 20 meters. Eastern Armenia became part of the Russian Empire in 1828 as a result of the Treaty of Turkmenchay. In 1842, members of Russian Molokan religious sect escaping prosecutions in mainland Russia, arrived in the region and founded the village of Yelenovka. The village remained Russian-populated until the end of the 19th century.After World War I, Yelenovka was included within independent Armenia from 1918 until its Sovietization in 1920. In 1930, Yelenovka became the centre of the newly-formed Sevan raion of Soviet Armenia. In 1935, the settlement was renamed Sevan after the nearby lake. In 1961, Sevan was granted the status of an urban settlement. In 1965, the nearby villages of Tsamakaberd and Gomadzor were included within the territory of the town of Sevan. In 1967, Sevan became a town of republican subordination." 
+                
+            
+            },
+            "lakeSevan":{
+                "name":"Lake Sevan",
+                "history":"Lake Sevan  is the largest body of water in Armenia and the Caucasus region. It is one of the largest freshwater high-altitude (alpine) lakes in Eurasia. The lake is situated in Gegharkunik Province, at an altitude of 1,900 m (6,234 ft) above sea level. The total surface area of its basin is about 5,000 km2 (1,900 sq mi), which makes up ​1⁄6 of Armenia's territory. The lake itself is 1,242 km2 (480 sq mi), and the volume is 32.8 km3 (7.9 cu mi). It is fed by 28 rivers and streams. Only 10% of the incoming water is drained by the Hrazdan River, while the remaining 90% evaporates. Sevan was heavily exploited for irrigation of the Ararat plain and hydroelectric power generation during the Soviet period. Consequently, its water level decreased by around 20 m (66 ft) and its volume reduced by more than 40%. Later two tunnels were built to divert water from highland rivers, which halted its decline and its level began rising. Before human intervention dramatically changed the lake's ecosystem, the lake was 95 m (312 ft) deep, covered an area of 1,416 km2 The lake provides some 90% of the fish and 80% of the crayfish catch of Armenia. Sevan has significant economic, cultural, and recreational value. Its sole major island (now a peninsula) is home to a medieval monastery."
+                
+            },
+            "parkSevan":{
+                "name":"Sevan National Park",
+                "history":"Sevan National Park was founded in 1978 to protect the Lake Sevan and the surrounding regions, under the jurisdiction of the Ministry of Nature Protection, managed as a research centre, monitoring the ecosystems and undertakes various conservation measures. Licensed fishing around the lake is also regulated. The national reserve occupies major territories around the Lake Sevan, extended from the northeastern parts of the town to the southwest. The area comprises 1,501 square kilometres (580 sq mi), of which 24,900 hectares (61,529 acres) are lakeside lands. It is surrounded with the slopes of mountain chains of Areguni, Geghama, Vardenis, Pambak and Sevan. Some 1600 plant and 330 animal species are found here. The park is divided into 3 zones: national reserve, recreation zone and economic use zone. The basin of Lake Sevan is a crossroad for mesophile and Armenian-Iranian xerophile flora belts. However, scientific researches about the mammals of the Sevan basin are quite poor. Wolf, jackal, fox, marten and cat, are usually found in the national reserve."
+               
+            },
+            "industrySevan":{
+                "name":"Sevan Botanical Garden & Industry",
+                "history":"The Sevan Botanical Garden covering an area of 5 hectares, is located at a height of 2000 meters above sea level and is home to more than 650 local, North American Asian and European species. It is operating since 1944 as a satellite of the Yerevan Botanical Garden under the supervision of the Armenian National Academy of Sciences The climate of Sevan is characterized by short mild summers and long, cold, and snowy winters. Despite its southern location, due to elevation and continentality, climate of Sevan is similar to Eastern Finland. The vast majority of the Soviet-era industrial plants of Sevan are currently abandoned. The Sevan flour mill and bakery factory is the only major plant that survived after the independence. Currently, the town is also home to the Sevan sugar plant opened in 2003, and the Lihnitis Sevan Brewerey opened in 2007. The Sevan Brewery produces a variety of lager beer as well as dunkel beer, under the brand Kellers. 'Yerknain Manana' confectionery plant (2013) and the 'Tuff-Granite' mining plant are also among the notable firms of Sevan. "
+                
+            },
+            "sportSevan":{
+                "name":"Education & Sport",
+                "history":"As of 2016, the town is home to 7 public education schools and 4 kindergartens. The Physics Institute of National Academy of Sciences of Armenia has a branch in Sevan. The Vaskenian Theological Academy of Sevan re-established in 1990, is among the prominent theological institutions of the South Caucasus. Between 1990 and 1994, the Akhtamar Sevan football club had represented the town in the domestic competitions. However, it became defunct due to financial difficulties. Starting from 2018, the town is represented at the Armenian football leagues by Sevan FC. Other popular sports in Sevan include beach soccer, beach volleyball and windsurfing. The game emphasises skill, agility and accuracy in shooting at the goal. Whilst football has been played informally on beaches for many years, the introduction of beach soccer was an attempt to codify rules for the game. This was done in 1992 by the founders of Beach Soccer Worldwide, a company set up to develop the sport and responsible for the majority of its tournaments to this day."
+               
+            },
+            "mapSevan":{
+                "name":"Arpa–Sevan - Varotan-Arpa tunnel",
+                "history":"In 1964 a project began to divert the Arpa River (from a reservoir near Kechut) through a 49 km (30 mi) long tunnel to the lake near Artsvanist. The tunnel, called Arpa–Sevan, was completed in 1981. It brings up to 200 million cubic metres (7.1 billion cubic feet) of water to Sevan per year. It is estimated, that due to climate change by year 2030, the outflow of the Arpa river will decrease by 22%. Since the water level in the lake did not rise as fast and as much, on 20 April 1981 the Council of Ministers of the Soviet Union made a decision for the construction of the Vorotan–Arpa tunnel. This 21.6 km (13.4 mi) long tunnel was begun from the Spandarian Reservoir on the Vorotan River further south from Kechut. Due to the Nagorno-Karabakh conflict and the 1988 earthquake in northwestern Armenia construction was halted. The tunnel was inaugurated on 26 April 2004. The Vorotan–Arpa tunnel brings an additional 165 million cubic metres (5.8 billion cubic feet) to the lake annually."
+               
+            },
+            "fishSevan" : {
+                "name":"Fish",
+                "history":"Sevan trout (Salmo ischchan) is an endemic species of the lake, but it is endangered as some competitors were introduced into the lake, including common whitefish (Coregonus lavaretus) from Lake Ladoga, goldfish (Carrasius auratus), and crayfish (Astacus leptodactylus). If the Sevan trout is likely to become extinct in its 'home' lake, it seems that it will survive in Issyk-Kul Lake (Kyrgyzstan) where it was introduced in the 1970s. Due to anthropogenic impact, changes have occurred in all the biological components of the lake, including bacteria, benthos, and of course fish. Thus, the benthic mass increased tenfold in 1940, due to oligochetes and chrinomices. Today, the former prevail and multiply the oxygen-rich residue at the bottom of the lake. The bojak and winter bakhtak species of the Sevan-endemic trout have already disappeared. The summer bakhtak occurs rarely; the gegharkuni is still capable of reproducing naturally. In 1980s, the quantity of Sevan koghak significantly decreased. Numerous reasons for this have been identified: Deoxidization of the bottom is extremely detrimental for Salmon, which are used to more than 4 mg/l of O2. In the last 10 years , poaching rapidly increased, which significantly reduced the number of fish in the lake."
+            }
+        },
+
+
+
+
+
+
+        "homeAttraction":{
+            "id":"attr",
+            "name":"Attraction",
+            "src":"/images/attraction/attraction.jpg"    
+        },
+        "attraction": 
+        {
+            "hreshtakapetac":{
+                "name":"Church of the Holy Archangels ",
+                "history":"Armenian Apostolic Church in Sevan.  Construction of the Holy Archangels Church began in 2009. It was built with the help of French national philanthropist Sargis Petoyan in memory of his parents, Avetis and Taguhi Petoyan. The author of the church project is RA Honored Architect Artak Ghulyan. "
+            },
+            "sevanavank":{
+                "name":"Sevanavank Monastery",
+                "history":"Sevanavank is a monastic complex located on a peninsula at the northwestern shore of Lake Sevan in the Gegharkunik Province of Armenia, not far from the town of Sevan. Initially the monastery was built at the southern shore of a small island. After the artificial draining of Lake Sevan, which started in the era of Joseph Stalin, the water level fell about 20 metres, and the island transformed into a peninsula. At the southern shore of this newly created peninsula, a guesthouse of the Armenian Writers' Union was built. The eastern shore is occupied by the Armenian president's summer residence, while the monastery's still active seminary moved to newly constructed buildings at the northern shore of the peninsula. Due to easier accessibility (once it became a peninsula), good highway and railway connections with the Armenian capital Yerevan, a well-developed tourist industry in the nearby town of Sevan, and its picturesque location (although less picturesque than it was before the lake level drop), Sevanavank is one of the most visited tourism sights in Armenia."
+            },
+            "akhtamar":{
+                "name":"Akhtamar",
+                "history":"The legend of Akhtamar goes like this: An Armenian princess named Tamar lived on Akhtamar Island in Lake Van (in Historic Armenia). She was in love with a commoner. This boy would swim from the mainland to the island each night, his way lit by a light she lit for him. One day her father found out about this and was very upset. He went to her as she held the light, waiting for her love. He smashed her light, leaving the boy in the middle of the lake without an idea of which direction to swim. They say his dying cries of Akh, tamar... (Oh, Tamar) can be heard to this day at night. This is where the name of the island comes from. The Turks have took Lake Van and Akhtamar island, but Armenians have built a statue in honor of this legend on the shores of Lake Sevan instead. It is along the highway, north of Sevanavank, by the artist Rafael Petrosyan."
+            },
+            "mashtotsner":{
+                "name":"Mashtotsner",
+                "history":"About 2.5-3 kilometers east of the district of Sevan, Zhamakaberd, is a small chapel that locals call 'Mashtots'. Also called 'Mashtots' are the mountains to the east of Zamakaberd, on one of the southern slopes of which the chapel is built. The name 'Mashtots' is related to Mashtots A. I met with the Catholicos (897-898). Mashtots (by the name of the basin Stepanos) was born in 833/4 in the village of Yeghvard. He studied at the Makenatsvots Monastery and became a local congregation, then went through the more arid desert called Artavazda Castle. Then, in 862 He came to the island of Sevan to sail into the above-mentioned Mashtots Mountains. He built a log cabin near a cold spring and lived there for a long time in prayerful and sacred conduct. From there he crossed to the island of Sevan, founded a congregation and built churches with the donations of Queen Mary. The mansion built by the Mashtots hermit has been destroyed and rebuilt over the centuries. It was last refurbished in the 1970s by a devotee named Anatoly. At present it is maintained and partially restored."
+            },
+            "ynkal":{
+                "name":"Astvatsankal Monastery",
+                "history":"Astvatsankal Monastery, in the central part of the historic Nig monastic complex, between the villages of Yernjatap and Hartavan in present-day Aragatsotn province, was built in the 4th to 13th centuries. The monastery complex is located on the right bank of the Kasagh River Gorge, on the right-hand side of the river, on a high hill. Handmade buildings built in different centuries have merged with one another in nature and are in harmony with it. On the right are steep cliffs, on the left cut by canyons, down the steep slopes down to the river Kassal, below the canyon, where the river Kassal flows, on the left bank of the river, on the triangular elevation of the medieval medieval fortress. The site of the Astvatsatsin monastery of the arched basilica church, the altar and the enclosed room was chosen and built by the then owners of the province of Nig, the Gnuntuns. In 1207, under the patronage of the new Vachoutyans, this church was renovated and a large monastic congregation was established there."
+            },
+            "sargischurch":{
+                "name":"Saint Sargis Church",
+                "history":"St. Sargis chapel is situated about half a kilometer from the village on the eastern hill. According to architectural analysis and construction techniques it dates back to the 7th century. The floor plan is damaged, and it had probably three-altar structure. The entrance is from the western side. There are cross-stones dated to the 10th to 15th centuries inside and outside the chapel. It is built of polished black basalt and the chapel size is 6.5 x 4.2 m. The chapel was restored in 2006. Next to the chapel the construction of new St. Sarkis Church was completed in 2006. It was designed by architect Vachagan Tadevosyan and was funded by philanthropist Arsen Agadjanyan. The church consecration ceremony took place on October 7, 2006. There is a stone altar placed at the entrance of the church. The nearby cemetery has graves dating to the 10th to 13th centuries."
+            },
+            "hovhanneschurch":{
+                "name":"Saint Sargis Church",
+                "history":"The chapel was built in the 10th to 13th centuries. It is located in the northern part of the village, on the top of the hill. Currently it is destroyed. The cross-stones date back to the 12th or 13th century and are located on the pedestal. It is said that the chapel was the place for making vows. Those who could not return to the village because of inappropriate deeds used to go the St. Hovhannes Church and promised not to return. However, in case of return they crawled to the cross-stones and vowed not to repeat their mistakes and only after that were allowed to return to the village."
+            },
+            "hayravank":{
+                "name":"Hayravank Monastery",
+                "history":"Hayravank  is a 9th to 12th century Armenian monastery located just northeast of the village of Hayravank along the southwest shores of Lake Sevan in the Gegharkunik Province of Armenia. The monastic complex consists of a church, chapel, and gavit.Surrounding the monastery are numerous khachkars and gravestones that are part of a small cemetery. To the northwest a short distance from the site, are the remains of Bronze Age through medieval fortification walls and foundations of a settlement. A polished black vessel of the Early Bronze Age was discovered during archaeological excavations in the area. Weapons of metal and stone, tools, clay idols, numerous vessels, fireplaces and two tombs, all from the Iron Age were discovered in the vicinity as well."
+                
+            }
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+        "descriptionBank":{
+            "id":"descBank",
+            "address":"Address",
+            "WorkingTime":"Working Time",
+            "phone":"Phone",
+            "link":"LINK"
+        },
+        "homeBank":{
+            "id":"banc",
+            "name":"Bank",
+            "src":"/images/bank/Bankk.jpg"    
+        },
+        "bank": {
+            "abb":{
+                "name":"ABB Bank , ATM",
+                "address":"Sayat-Nova St, Sevan 1501,",
+                "time":"09:30–16:30",
+                "phone":" +374 10-59-20-19"
+           },
+           "vtb":{
+                "name":"VTB Bank",
+                "address":"Sargis Sevanatsi St, Sevan, ",
+                "time":"09:30–16:30",
+                "phone":" (00374) 87-87"
+            },
+            "vtbAtm":{
+                "name":"VTB ATM",
+                "address":"155 Nairyan St, Sevan, ",
+                "time":"24h",
+                "phone":"+374 800-08-787"
+            },
+            "acba":{
+                "name":"ACBA-CREDIT AGRICOLE Bank",
+                "address":"N 2, N 3 Nairyan 2nd alley, Sevan 1501, ",
+                "time":"09:30–16:30",
+                "phone":"+374 10 318-888"
+            },
+            "acbaAtm":{
+                "name":"ACBA-CREDIT AGRICOLE ATM",
+                "address":"164 Nairyan St, Sevan, ",
+                "time":"24h",
+                "phone":"+374 10 318-888"
+             },
+             "unibank":{
+                "name":"Unibank",
+                "address":"163 Nairyan St, Sevan 1501, ",
+                "time":"09:30–16:30",
+                "phone":"+374 261 20007"
+           },
+           "unibankAtm":{
+                "name":"Unibank ATM",
+                "address":"155 Nairyan St, Sevan, ",
+                "time":"24h",
+                "phone":"+374 10 555-385"
+            },
+            "converse":{
+                "name":"Converse Bank ",
+                "address":"155/2 Nairyan St, Sevan, ",
+                "time":"09:30–16:30",
+                "phone":"+374 261 2-01-62"
+            },
+            "converseAtm":{
+                "name":"Converse ATM ",
+                "address":"151/3 Nairyan St, Sevan, ",
+                "time":"24",
+                "phone":""
+            },
+            "ardshinbank":{
+                "name":"Ardshinbank , ATM ",
+                "address":"Nairyan St, Sevan, ",
+                "time":"09:30–16:30",
+                "phone":"+374 261 2-12-51"
+            },
+            "econom":{
+                "name":"ARMECONOMBANK , ATM",
+                "address":"141/3 Nairyan St, Sevan, ",
+                "time":"09:30–16:30",
+                "phone":"+374 10 510-910"
+           },
+           "beeline":{
+                "name":"Beeline",
+                "address":"151, 3 Nairyan St, Sevan 1501",
+                "time":"09:00–18:00",
+                "phone":"096 900-611"
+             },
+             "vivacell":{
+                "name":"Vivacell MTS",
+                "address":"Sargis Sevanatsi St, Sevan, ",
+                "time":"09:00–18:00",
+                "phone":"---"
+            },
+            "rostelecom":{
+                "name":"Rostelecom",
+                "address":"Sargis Sevanatsi St, Sevan, ",
+                "time":"09:00–18:00",
+                "phone":"+374 60 46-46-46"
+            },
+            "ucom":{
+                "name":"Ucom",
+                "address":"151 Nairyan St, Sevan 1501, ",
+                "time":"09:00–18:00",
+                "phone":" 011 444-444"
+            }
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+        "descriptionMarket":{
+            "id":"mixsmar",
+            "address":"Address",
+            "WorkingTime":"Working Time",
+            "phone":"Phone",
+            "link":"LINK"
+        },
+        "homeMarket":{
+            "id":"shop",
+            "name":"Shop",
+            "src":"/images/market/shop.jpg"    
+        },
+        "market":{
+            "kakach":{
+                "name":"Kakach Market",
+                "address":"175 Street Nairyan St, Sevan 1501, ",
+                "time":"08:30–23:00",
+                "phone":"+374 93 416-680"
+             },
+             "taron":{
+                "name":"TARON Supermarket",
+                "address":"City of Sevan: Nairyan 157",
+                "time":"08:30–23:00",
+                "phone":"---"
+            },
+            "zim":{
+                "name":"ZIM Supermarket",
+                "address":"Nairyan St, Sevan, ",
+                "time":"08:30–23:00",
+                "phone":"---"
+            },
+            "mix":{
+                "name":"MIX market",
+                "address":"147/21 Nairyan St, Sevan, ",
+                "time":"08:00–23:30",
+                "phone":"+374 77 360-025"
+            },
+            "ararat":{
+                "name":"Ararat  Pharmacy(Apteka)",
+                "address":"151, 3 Nairyan St, Sevan, ",
+                "time":"08:00–23:00",
+                "phone":"---"
+             },
+             "city":{
+                "name":"Sevan City Supermarket",
+                "address":"Shahumyan St, Sevan, ",
+                "time":"08:00–00:00",
+                "phone":"+374 261 2-56-59"
+             },
+             "im":{
+                "name":"Sevan Electronics(ImDavo)",
+                "address":"c. Nairyan 147, Sevan, ",
+                "time":"09:00-18:00",
+                "phone":"+374 96 242-399"
+           },
+           "hagusti":{
+                "name":"Hagusti Ashxarh",
+                "address":"120 Nairyan St, Sevan 1501, ",
+                "time":"09:00-18:00",
+                "phone":"---"
+              }
+        },
+
+
+
+
+
+
+
+
+
+        "descriptionCps":{
+            "id":"mixscp",
+            "name":"Name",
+            "address":"Address",
+            "WorkingTime":"Working Time",
+            "phone":"Phone"
+        },
+        "homeCps":{
+            "id":"spc",
+            "name":"CPS",
+            "src":"/images/cps/cps.jpg"    
+        },
+        "cps":{
+            "laguna1":{
+                "name":"LAGUNA",
+                "address":"176 Nairyan St, Sevan, ",
+                "phone":"+374 94 934242"
+         },
+         "ananun":{
+                "name":"---",
+                "address":"Abovyan Street, Sevan, ",
+                "phone":"---"
+            },
+            "cpssevan":{
+                "name":"---",
+                "address":"6 Yerevan Highway, Sevan, ",
+                "phone":"+374 10 565-281"
+           },
+           "cpssevan1":{
+                "name":"---",
+                "address":"25 Yerevan Highway, Sevan, ",
+                "phone":"+374 10 565-281"
+            },
+            "ananun1":{
+                "name":"---",
+                "address":"H52, Tsovagyugh, ",
+                "phone":"---"
+             }
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "descriptionMix":{
+            "id":"mixs",
+            "name":"Name",
+            "address":"Address",
+            "WorkingTime":"Working Time",
+            "phone":"Phone"
+        },
+        "trans":{
+            "id":"trans",
+            "name":"Transport"
+        },
+        "sports":{
+            "id":"spor",
+            "name":"Sport"
+        },
+        "craft":{
+            "id":"crafts",
+            "name":"Craftsman"
+        },
+        "transport":{
+            "bus":{
+                "name":"Bus Station to Yerevan",
+                "address":"Nairyan St, Sevan, ",
+                "time":"06:00-17:00",
+                "phone":"Sevan 094255551 Yerevan 093759257"
+            },
+            "taxi":{
+                "name":"Taxi",
+                "address":"165-163 Nairyan St, Sevan, ",
+                "time":"24h",
+                "phone":"---"
+               }
+        },
+        "sport": {
+            "sparta":{
+                "name":"Sparta Fitnes",
+                "address":"Sargis Sevanatsi St, Sevan, ",
+                "time":"18:00-23:00",
+                "phone":"---"
+               }
+        },
+        "craftsman":{
+            "xman":{
+                "name":"---",
+                "address":"---",
+                "time":"---",
+                "phone":"---"
+            }
+        },
+
+
+
+
+
+
+
+        
+            "contacts":{
+                "id":"cont",
+                "name":"Contacts",
+                "src":"/images/contact/contactt.jpg" 
+            },
+            "contact": {
+                "major":{
+                    "name":"SEVAN",
+                    "iName":"Town Hall",
+                    "address":"164 Nairyan St, Sevan, ",
+                    "phone":"0261 4-00-00"
+             },
+             "hospital":{
+                    "name":"MEDICAL CENTER SEVAN",
+                    "iName":"Hospital",
+                    "address":"Nairyan St, Sevan,",
+                    "phone":"---"
+                 },
+                 "stv":{
+                    "name":"Sevan TV company ",
+                    "iName":"Gexama",
+                    "address":"Sargis Sevanetci 06 , Sevan, ",
+                    "phone":"+374 91 750075"
+                  },
+                  "post":{
+                    "name":"Haypost Sevan",
+                    "iName":"Post",
+                    "address":"171/1-1 Nairyan St, Sevan 1501, ",
+                    "phone":"---"
+                 }
+                }
+            ,
+            "mapInfo":{
+                "address":"*-*-*-*-*-**-*-*",
+                "phone":"0XX-xyz-zxy",
+                "mail":"xyz@mail.ru",
+                "contactInfo":"Contact Info",
+                "name":"Name",
+                "email":"Email",
+                "message":"Message",
+                "but":"Send Message"
+            },
+
+
+
+
+            "homeNews":{
+                "id":"homeNews",
+                "name":"News",
+                "src":"/images/news/newss.jpg"
+            },
+            "news":{
+                "info1":{
+                    "name":"ShopName",
+                    "about":"price , discount",
+                    "info1":"-*-*-*-*-**-",
+                    "info2":"-*-*-*-*-*-*-*-",
+                    "info3":"*/*/*/*/*/*/*/**/",
+                    "info4":"-*/-*-/*/-/*-",
+                    "info5":"@#$%$%^%^%^%^%",
+                    "info6":"1233245646323"
+                },
+                "info2":{
+                    "name":"ShopName",
+                    "about":"price , discount",
+                    "info1":"-*-*-*-*-**-",
+                    "info2":"-*-*-*-*-*-*-*-",
+                    "info3":"*/*/*/*/*/*/*/**/",
+                    "info4":"-*/-*-/*/-/*-",
+                    "info5":"@#$%$%^%^%^%^%",
+                    "info6":"78984565263213"
+                }
+                },
+
+
+
+
+
+
+
+            "foother" : {
+                "id":"foot",
+                "information":"Information",
+                "informationOne":" Phone Number ",
+                "informationTree":" Email , Gmail ",
+                "informationTwo":"The information section of Dilijan and Ijevan cities will be added to the website SOON",
+                "number":"09x-XxX-xXx",
+                "numberTwo":"09x-XxX-xXx",
+                "email":"xyz@mail.ru",
+                "gmail":"yzxys@gmail.com",
+                "watchNumber":"Number of views",
+                "watch":"100"
+            },
+
+
+
+
+
+
+
+
+
+
+
+
+
+            "descriptionCafe":{
+                "id":"mixsca",
+                "name":"Name",
+                "address":"Address",
+                "WorkingTime":"Working Time",
+                "phone":"Phone",
+                "link":"LINK",
+                "menu":"MENU"
+            },
+            "homeCafe":{
+                "id":"kafe",
+                "name":"Cafe (Bar)",
+                "src":"/images/cafe/cafeBar.jpg"
+            },
+            "cafe": 
+    {
+        "barev":{
+            "name":"Barev Cafe",
+            "address":"14 Sayat-Nova St, Sevan 1501, ",
+            "time":"10:00–23:00",
+            "phone":"+374 93 500-816",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "bohem":{
+            "name":"Bohem Studio - Teahouse",
+            "address":"Sayat-Nova 16/13, Sevan 1501, ",
+            "time":"10:00-23:00",
+            "phone":" (+374 55) 662-119",
+             "menu":{
+                "x1":"Crayfish",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "lepetit":{
+            "name":"Cafe Le Petit",
+            "address":"Sayat-Nova St, Sevan, ",
+            "time":"10:00–23:30",
+            "phone":"+374 98 346-336",
+            "menu":{
+                "x1":"Crayfish",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "amigo":{
+            "name":"AMICO cafe-pizzeria",
+            "address":"155, 2 Nairyan St, Sevan 1501, ",
+            "time":"09:00–00:00",
+            "phone":"+374 94 262-262",
+            "menu":{
+                "x1":"Crayfish",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "sevanhamalir":{
+            "name":"Sevan Hamalir",
+            "address":"6 Komitas Street, Sevan 1501, ",
+            "time":"10:00–21:00",
+            "phone":"+374 261 2-04-40",
+            "link":"https://www.facebook.com/hamalirsevan",
+            "srcImg":"/images/cafe/hamalir.jpg",
+            "srcMap":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1515.8444188631315!2d44.961727599999996!3d40.5484632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x404046c720086ccd%3A0x579de765839c2cf4!2z1Y3VpdW-1aHVtiDVgNWh1bTVodWs1avWgA!5e0!3m2!1sru!2s!4v1589903804924!5m2!1sru!2s",
+            "menu":{
+                "x1":"Crayfish",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "yeritasard":{
+            "name":"Yeritasardakan Cafe",
+            "address":"Demirchyan Street , Sevan 1104",
+            "time":"10:00–21:00",
+            "phone":"0xx xxx-xxx",
+           "menu":{
+                "x1":"Crayfish",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "kellers":{
+            "name":"Sevan's brewery Kellers",
+            "address":"Sevan, Yerevanyan Highway 3",
+            "time":"09:00–23:00",
+            "phone":"+374 55 350-011",
+            "menu":{
+                "x1":"Crayfish",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "maku":{
+            "name":"Maku Bakery",
+            "address":"Sayat-Nova St, Sevan, ",
+            "time":"10:00–00:00",
+            "phone":"096 080-400",
+            "menu":{
+                "x1":"Crayfish",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        }
+    },
+
+
+
+
+
+
+
+
+
+    "descriptionHotel":{
+        "id":"mixsho",
+        "name":"Name",
+        "address":"Address",
+        "WorkingTime":"Working Time",
+        "phone":"Phone",
+        "link":"LINK",
+        "room":"Room",
+        "menu":"MENU",
+        "picture":"PICTURE"
+    },
+    "homeHotel":{
+        "id":"hotels",
+        "name":"Restaurants",
+        "src":"/images/hotel/restoran.jpg"
+    },
+    "hotel":{
+        "darling":{
+            "name":"Darling HALL",
+            "address":"Gegharkunik region, Ara Geghetsik 8 Yerevan",
+            "time":"09:00 - 00:00",
+            "phone":"077 271-742",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "orsetto":{
+            "name":"Orsetto Hotel-Restaurant",
+            "address":"Sevan - Yerevanyan Highway, 29 Building,  ",
+            "time":"08:00 - 00:00",
+            "phone":"+374 98 800-037",
+            "room":"---",
+             "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "krunk":{
+            "name":"KRUNK Restaurant-Hotel",
+            "address":"31 Yerevan Highway, Sevan, ",
+            "time":"09:00 - 00:00",
+            "phone":"098 444-334",
+            "link":"---",
+            "room":"---",
+             "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "maria":{
+            "name":"Maria Resort",
+            "address":" Yerevan Highway, Sevan,",
+            "time":"24h",
+            "phone":"+374 98 646-400",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "harsnaqar":{
+            "name":"Harsnaqar Hotel Complex & Water World",
+            "address":"17 Tsamakaberd Highway, Yerevan 1501, ",
+            "time":"24h",
+            "phone":"+374 60 748-888",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "bohemia":{
+            "name":"Best Western Bohemian Resort",
+            "address":"Near Peninsula Sevanavanq Sevan Lake, Sevan 0001, ",
+            "time":"24h",
+            "phone":"+374 60 497-777",
+            "room":"---",
+             "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "inn":{
+            "name":"Garden Inn Resort Sevan",
+            "address":"Sevan Public Beach 4, 54 Yerevan Sevan Highway, Sevan 1501,",
+            "time":"09:00-23:00",
+            "phone":"+374 93 082-222",
+            "room":"---",
+             "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "kambuz":{
+            "name":"Kambuz  Restaurant-Hotel",
+            "address":"Sevan Poluostrov, Sevan 1501, ",
+            "time":"24h",
+            "phone":"+374 77 803-135",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "erkat":{
+            "name":"Ashot Erkat  Restaurant-Hotel",
+            "address":"Sevanskiy p-ov, oblast' otdykha 4, Ulitsa 25, Sevan 1501, ",
+            "time":"24h",
+            "phone":"+374 91 405-051",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "mot":{
+            "name":"Collette (Semo-I Mot) Restaurant",
+            "address":"Tsovagyugh, Sevan",
+            "time":"08:00-00:00",
+            "phone":"+374 77 858-040",
+            "room":"---",
+             "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "gagar":{
+            "name":"Gagari mot",
+            "address":"Gegharkunik M4, Sevan 1512, ",
+            "time":"08:00-00:00",
+            "phone":"+374 93 357-711",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "karasar":{
+            "name":"Karasar Hotel & Restaurant ",
+            "address":"Yerevan Dilichan hightway 73 km, Sevan 1503, ",
+            "time":"24h",
+            "phone":"+374 93 190-707",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "gesi":{
+            "name":"Vardgesi mot  Restaurant",
+            "address":"",
+            "time":"10:00–23:00",
+            "phone":"+374 261 2-60-66",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "otel":{
+            "name":"SEVANO Hotel",
+            "address":"Gorcaranayin 8, Sevan 1501, ",
+            "time":"24h",
+            "phone":"+374 93 000-166",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        },
+        "ojax":{
+            "name":"Hayoc Ojax Restaurant-Hotel",
+            "address":"27 Yerevan Highway, Sevan, ",
+            "time":"24h",
+            "phone":"+374 94 708-738",
+            "room":"---",
+            "menu":{
+                "x1":"Crayfish-1000dr",
+                "src1":"/images/menu/icons8-crab-100.png",
+                "x2":"Beer-1000dr",
+                "src2":"/images/menu/beer (7).png",
+                "x3":"Burger-1000dr",
+                "src3":"/images/menu/fast-food.png",
+                "x4":"Wine-1000dr",
+                "src4":"/images/menu/icons8-food-100.png",
+                "x5":"Bread-1000dr",
+                "src5":"/images/menu/icons8-steak-100.png",
+                "x6":"Meat-1000dr",
+                "src6":"/images/menu/icons8-kawaii-cupcake-100.png",
+                "x7":"Watermelon-1000dr",
+                "src7":"/images/menu/icons8-rack-of-lamb-100.png",
+                "x8":"Black Tea -1000dr",
+                "src8":"/images/menu/icons8-watermelon-100.png",
+                "x9":"Stand-up meal - 1000dr",
+                "src9":"/images/menu/icons8-french-press-100.png"
+            }
+        }
+    }
+        
+
+    
+        
+}

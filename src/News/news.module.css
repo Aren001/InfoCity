@@ -1,0 +1,78 @@
+.flexContainer{
+    background: url(https://amp.kavkaz-uzel.eu/system/uploads/article_image/image/0005/50964/view_new.jpg);
+    background-size: cover;
+    /* width: 100%;
+    height: 100%; */
+    /* margin-left: 5%; */
+}
+.conte {
+  display: flex;
+  flex-wrap: wrap;
+  /* align-items: center; */
+  /* margin: 30px; */
+  
+  }
+  
+  .flexContainer >div > nav {
+    background-color: #f1f1f1;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+    /* line-height: 75px; */
+    font-size: 30px;
+    margin-left: 10%;
+  }
+
+  .flexContainer > nav {
+    background-color: #f1f1f1;
+    width: 300px;
+    height: 300px;
+    /* margin: 10px; */
+   /* margin-bottom: 30px; */
+    text-align: center;
+    /* line-height: 75px; */
+    font-size: 30px;
+    position: relative;
+  }
+  
+
+
+.imig {
+    width: 200px;
+    height: 200px;
+     overflow:hidden;
+}
+.imig {
+    transition: 1s; /* Время эффекта */
+   }
+   .imig:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
+
+
+   @media (max-width: 500px) {
+    .flexContainer {
+        display: inline;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+     
+    }
+    .flexContainer >div > nav {
+        width: 300px;
+        height: 250px;
+       
+    }
+    .flexContainer >div > nav > p {
+      
+        font-size: 5px;
+    }
+    .imig {
+        width: 200px;
+        height: 150px;
+    }
+  }
+ 
+ 

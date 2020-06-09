@@ -1,0 +1,157 @@
+.menu ul li {
+  padding: 1px;
+  /* color: black; */
+}
+
+.menu ul > li:hover {
+  /* background-color: #69e; */
+  /* opacity: 0.9;  */
+  /* filter: alpha(Opacity=70);  */
+  border-radius: 25px;
+}
+.menu ul ul > li:hover {
+  /* background-color: #69e;
+  color: #369; */
+  width: 100%;
+}
+
+.menu ul li,
+.menu ul {
+  display: inline-block;
+}
+.menu ul {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  /* clear: block; */
+  /* background-color: #333; */
+}
+.menu ul ul {
+  display: none;
+  position: absolute;
+  background-color: white;
+  margin-top: 10px;
+  margin-left: -10px;
+}
+.menu ul a {
+  color: #521751;
+  text-decoration: none;
+}
+.menu ul ul a {
+  color: white;
+  text-decoration: none;
+}
+.menu li:hover ul {
+  display: block;
+}
+
+.menu li:hover li {
+  display: block;
+}
+.menu ul ul {
+  position: relative;
+  z-index: 10000;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);;
+  margin: 10px;
+  padding: 0;
+}
+.closed {
+  left: 80%;
+  margin-top: 5px;
+  font-size: 30px;
+  color: red;
+}
+
+
+/* RESP */
+
+@media screen and (max-width: 1030px) {
+  .menu ul ul a {
+    font-size: 30px;
+    padding: 0;
+    margin-left: 10px;
+  }
+  .menu ul a {
+   font-size: 40px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .menu ul ul a {
+    font-size: 20px;
+    padding: 0;
+    margin-left: 10px;
+  }
+  .menu ul a {
+   font-size: 20px;
+  }
+}
+@media screen and (max-width: 789px) {
+  .menu ul ul a {
+    font-size: 20px;
+    padding: 0;
+    margin-left: 10px;
+  }
+  .menu ul a {
+   font-size: 20px;
+  }
+}
+@media screen and (max-width: 640px) {
+  .menu ul ul a {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    
+  }
+  .menu ul a {
+    font-size: 20px;
+   }
+ 
+}
+@media screen and (max-height: 450px) {
+
+  .menu ul ul  {
+    margin: 0;
+    padding: 0;
+    overflow: scroll;
+    position: relative;
+    width: 250px;
+    height: 200px;
+    overflow: auto;
+  }
+
+
+}
+@media screen and (max-height: 360px) {
+
+  .menu ul ul  {
+    margin: 0;
+    padding: 0;
+    overflow: scroll;
+    position: relative;
+    width: 250px;
+    height: 200px;
+    overflow: auto;
+  }
+
+
+}
+
+@media screen and (max-width: 360px) {
+  .menu ul ul a {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+  }
+  .menu ul a {
+    font-size: 20px;
+   }
+}
+@media screen and (max-height: 360px) {
+  .menu ul ul a {
+    font-size: 20px;
+    padding: 0;
+    margin-left: 10px;
+  }
+}
+
+

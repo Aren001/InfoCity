@@ -1,0 +1,114 @@
+
+.contact {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 100px;
+    
+}
+.contact > div {
+    width: 300px;
+    height: 300px;
+    background: aliceblue;
+    margin: 30px;
+}
+.contactLogo {
+    display: flex;
+    justify-content: center;
+    background: black;
+    height: 70px;
+   
+}
+.contactLogo > div {
+    width: 250px;
+    height: 30px;
+    background: #333;
+    top: 20px;
+    text-align: center;
+    background-size: cover;
+}
+.smayl {
+    width: 20px;
+    height: 20px;
+}
+
+.contactIcon {
+    width: 50px;
+    height: 50px;
+    
+}
+.contactDivs  {
+    display: flex;
+    justify-content: center;
+    border: 10px solid transparent;
+    border-image: linear-gradient(to right, transparent 0%, #ADF2F7 100%);
+    border-image-slice: 1;
+    background: #333;
+    
+}
+.contactDiv {
+    border: 10px solid transparent;
+    border-image: linear-gradient(to right, transparent 5%, #ADF2F7 100%);
+    border-image-slice: 1;
+    background: #333;
+}
+
+@media screen and (max-width: 420px) {
+    .contact  {
+        
+        display: block;
+        justify-content: center;
+        
+    }
+    .contact > div {
+        width: 300px;
+        
+        
+    }
+    .contactIcon {
+        width: 70px;
+        height: 50px;
+        
+    }
+  }
+
+@media screen and (max-width: 370px) {
+    .contact  {
+        
+        display: block;
+        justify-content: center;
+        
+    }
+    .contact > div {
+        width: 300px;
+        
+        
+    }
+    .contactIcon {
+        width: 70px;
+        height: 50px;
+        
+    }
+  }
+  @media screen and (max-width: 320px) {
+    .contact  {
+        
+        display: block;
+        justify-content: center;
+        width: 320px;
+        margin: 0;
+        
+    }
+    .contact > div {
+        width: 250px;
+        left: 1px;
+        
+        
+    }
+    .contactIcon {
+        width: 70px;
+        height: 50px;
+        
+    }
+  }

@@ -1,0 +1,456 @@
+@charset "utf-8";
+/* CSS Document */
+
+/******************************
+
+[Table of Contents]
+
+1. Fonts
+2. Body and some general stuff
+3. Header
+4. Menu
+5. Home
+6. Search Box
+7. Intro
+8. Room
+9. Facilities
+10. Gallery
+11. Newsletter
+12. Contact
+13. Footer
+
+
+******************************/
+
+/***********
+1. Fonts
+***********/
+
+@import url('https://fonts.googleapis.com/css?family=Alike|Roboto:300,400,500,700,900');
+
+/*********************************
+2. Body and some general stuff
+*********************************/
+
+*
+{
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
+	text-shadow: rgba(0,0,0,.01) 0 0 1px;
+}
+body
+{
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	width: 100%;
+	/* font-weight: 400; */
+	background: black;
+	/* color: #a5a5a5; */
+	
+}
+.homeDiv {
+	/* width: 100%; */
+	margin: 0;
+	
+}
+.galleryAuto {
+	background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+	padding: 0px;
+	/* width: 100%; */
+}
+
+
+.weatherContener {
+	background-image: url("/images/wheather.jpg");
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	/* box-shadow: 0px 0px 0px 7px #000; */
+}
+
+.super_containerr {
+	background-color: #1D9EB4;
+	margin: 0;
+	padding: 0;
+	
+}
+.owl-carousel {
+	/* left: 30%; */
+	margin: 0;
+	padding: 0;
+}
+div
+{
+	display: block;
+	position: relative;
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+ul
+{
+	list-style: none;
+	margin-bottom: 0px;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family: 'Alike', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-webkit-text-shadow: #1D9EB4;
+	text-shadow: #1D9EB4;
+	line-height: 1.2;
+	color: #4086D0;
+}
+
+.form-control
+{
+	color: #1D9EB4;
+}
+section
+{
+	display: block;
+	position: relative;
+	box-sizing: border-box;
+}
+.clear
+{
+	clear: both;
+}
+.clearfix::before, .clearfix::after
+{
+	content: "";
+	display: table;
+}
+.clearfix::after
+{
+	clear: both;
+}
+.clearfix
+{
+	zoom: 1;
+}
+.float_left
+{
+	float: left;
+}
+.float_right
+{
+	float: right;
+}
+
+.fill_height
+{
+	height: 100%;
+}
+.super_container
+{
+	width: 100%;
+	overflow: hidden;
+}
+.prlx_parent
+{
+	overflow: hidden;
+}
+.prlx
+{
+	height: 130% !important;
+}
+.parallax-window
+{
+    min-height: 400px;
+    background: transparent;
+}
+.parallax_background
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	/* width: 100%;
+	height: 100%; */
+}
+.background_image
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+.nopadding
+{
+	padding: 0px !important;
+}
+.section_title_container
+{
+	padding-top: 52px;
+	color: #1D9EB4;
+}
+.section_title_container::after
+{
+	position: absolute;
+	top: 0;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	-moz-transform: translateX(-50%);
+	-ms-transform: translateX(-50%);
+	-o-transform: translateX(-50%);
+	transform: translateX(-50%);
+	width: 3px;
+	height: 30px;
+	background: #1D9EB4;
+	content: '';
+}
+.section_title_container_2
+{
+	padding-top: 52px;
+}
+.section_title_container_2::after
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 3px;
+	height: 30px;
+	background: #1D9EB4;
+	content: '';
+}
+.section_title h1
+{
+	color: #1D9EB4;
+}
+.section_text
+{
+	max-width: 910px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 17px;
+	font-size: 16px;
+	font-weight: 500;
+	color: #717171;
+	line-height: 2.25;
+}
+
+
+/*********************************
+3. Header
+*********************************/
+
+
+/*********************************
+4. Menu
+*********************************/
+
+
+
+/*********************************
+7. Intro
+*********************************/
+
+.intro
+{
+	width: 100%;
+	background: #FFFFFF;
+	padding-top: 98px;
+	padding-bottom: 98px;
+}
+.intro_row
+{
+	margin-top: 86px;
+}
+.intro_image
+{
+	width: 100%;
+}
+.intro_image img
+{
+	max-width: 100%;
+}
+.intro_text
+{
+	margin-top: 47px;
+}
+.intro_text p
+{
+	font-size: 18px;
+	line-height: 1.88;
+	font-weight: 500;
+	font-style: italic;
+	color: #717171;
+}
+.intro_author
+{
+	margin-top: 41px;
+}
+.author_image
+{
+	width: 54px;
+	height: 54px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.intro_author_content
+{
+	padding-left: 23px;
+}
+.intro_author_name
+{
+	font-size: 16px;
+	font-weight: 500;
+	color: #1D9EB4;
+}
+.intro_author_title
+{
+	font-size: 12px;
+	font-weight: 500;
+	color: #da8661;
+	text-transform: uppercase;
+	line-height: 0.75;
+	margin-top: 4px;
+}
+
+/*********************************
+8. Room
+*********************************/
+
+.room
+{
+	width: 100%;
+
+}
+.room .container
+{
+	max-width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.room .container .row
+{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.room .container .row .col
+{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.room_content
+{
+	width: 612px;
+	padding-left: 55px;
+	padding-top: 46px;
+	padding-bottom: 52px;
+	padding-right: 48px;
+}
+
+
+/*********************************
+9. Facilities
+*********************************/
+
+.facilities
+{
+	padding-top: 98px;
+	padding-bottom: 89px;
+	background: #FFFFFF;
+}
+.icon_box_icon
+{
+	width: 62px;
+	height: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.icon_box_icon img
+{
+	max-width: 100%;
+}
+.icon_box_title
+{
+	margin-top: 25px;
+}
+.icon_box_text
+{
+	margin-top: 23px;
+}
+
+
+/*********************************
+10. Gallery
+*********************************/
+
+
+/*********************************
+12. Contact
+*********************************/
+
+.contact
+{
+	background: #FFFFFF;
+}
+.contact_map_container
+{
+	padding-right: 42px;
+}
+.contact > .container
+{
+	max-width: 100%;
+	padding-left: 0px;
+	padding-right: 0;
+}
+.contact > .container > .row
+{
+	margin-left: 0;
+	margin-right: 0;
+}
+.contact > .container > .row > div[class^='col']
+{
+	padding-left: 0;
+	padding-right: 0;
+}
+.contact_map
+{
+	width: 100%;
+}
+.maps
+{
+	width: 100%;
+	margin: 0;
+	
+}
+.google_maps
+{
+	width: 100%;
+	height: 700px;
+	margin: 0;
+	padding: 3px;
+	border-top-left-radius: 15em 3em;
+	border-bottom-right-radius: 15em 3em;
+	border-style: double;
+	border: 5px solid #333;
+}
+.map_container
+{
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+#map
+{
+	width: 100%;
+	height: calc(100% + 30px);
+}
+
+
+
+/*********************************
+13. Footer
+*********************************/
+
+
