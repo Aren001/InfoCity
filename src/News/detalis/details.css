@@ -1,48 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Lato:ital@1&display=swap');
 .Detail {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    /* margin-top: 30px; */
-    /* margin-bottom: 40px; */
-    /* padding: 0 60px; */
-}
-  
-.Detail-heading {
-    font-size: 24px;
-    font-weight: 300;
-}
-  
-.Detail-container {
     width: 100%;
-    max-width: 800px;
-    margin-top: 30px;
-    padding: 40px 40px 0;
-    border-radius: 4px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+}
+ 
+.Detail-line {
+    width: 100%;
+    height: 3px;
+    background: gold;
+}
+.Detail-container {
+    width: 400px;
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    background: whitesmoke;
+    border-radius: 10px;
     box-shadow: 0px 0px 40px 0px#1f364d;
+    text-align: center;
 }
-.Detail-item {
-    margin-bottom: 50px;
-  }
-  
-.Detail-value {
-    border-radius: 20px;
-    background-color: #1f364d;
-    font-size: 14px;
-    padding: 8px 12px;
-    margin-left: 10px;
+.Detail-heading {
+    color: blueviolet;
 }
-  
-.Detail-title {
-    display: block;
-    color: #9cb3c9;
-    font-size: 12px;
-    font-weight: bold;
-    margin-bottom: 10px;
+.Detail-text  {
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Lato', sans-serif;
+}
+hr.style-one {
+    border: 0;
+    margin: 0;
+    height: 1px;
+    background: #333;
+    background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+    background-image:    -moz-linear-gradient(left, #ccc, #333, #ccc);
+    background-image:     -ms-linear-gradient(left, #ccc, #333, #ccc);
+    background-image:      -o-linear-gradient(left, #ccc, #333, #ccc);
+}
+.Detail-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #FFF;
+    width: 100px;
+    height: 60px;
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    background-image: -webkit-linear-gradient(45deg, #709dff 0%, #91fdb7 100%);    
+    background-image: linear-gradient(45deg, #709dff 0%, #91fdb7 100%);
+    transition: .4s;
 }
 
-.Detail-dollar {
-    color: #9cb3c9;
-    margin-right: 6px;
+.Detail-btn:hover{
+  -webkit-transform: rotate(10deg);
+  -ms-transform: rotate(10deg);
+  transform: rotate(10deg);
 }
-  

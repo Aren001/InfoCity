@@ -42,7 +42,7 @@ const News = (props) => {
 
 	const fetchS = () => {
 		setLoading(true);
-		fetch('https://run.mocky.io/v3/978029c2-6aef-44dc-abdd-767533db36f3')
+		fetch('https://run.mocky.io/v3/461103e2-8c82-49fd-81ef-45e464cfa535')
 			.then(resp => resp.json().then(data => {
 				if (resp.ok) {
 					return data;
@@ -88,9 +88,11 @@ const News = (props) => {
 					   {
 						   arr.map((item) => {
 							   return (
-								   <nav  key={item.id} onClick={() => history.push(`/maynews/${item.id}`)} >
+								   <nav className={s.nav}  key={item.id} onClick={() => history.push(`/maynews/${item.id}`)} >
 									   <div className={s.div1}>
-										   <p>{t(`news.${item.id}.name`)}</p>
+											<h3>{item.name}</h3>
+											<hr />
+											<h4>{item.about}</h4>
 										   <img className={s.imig} src={item.srcImg} />
 										  
 									   </div>
@@ -111,6 +113,7 @@ const News = (props) => {
 }
 export default  translate(withRouter(News));
 
+{/* <p>{t(`news.${item.id}.name`)}</p> */}
 
 
 
